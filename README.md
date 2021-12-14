@@ -1,2 +1,3 @@
-# projeto_final_visao
+# Projeto Final - Visão Computacional
+
 Projeto Final da eletiva de Visão Computacional
